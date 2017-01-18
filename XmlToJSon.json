@@ -1,0 +1,3283 @@
+{
+  "metadata" : {
+   "xmlns" : "http://musicbrainz.org/ns/mmd-2.0#",
+   "release" : {
+    "id" : "b02d69c5-9e6b-40e7-b92a-cbce31d5abdb",
+    "title" : "Dead Throne" ,
+    } ,
+    "status" : "Official" ,
+    } ,
+    "quality" : "normal" ,
+    } ,
+    "text-representation" : {
+     "language" : "eng" ,
+     } ,
+     "script" : "Latn" ,
+     } ,
+    "artist-credit" : {
+     "name-credit" : {
+      "artist" : {
+       "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+       "name" : "The Devil Wears Prada" ,
+       } ,
+       "sort-name" : "Devil Wears Prada, The" ,
+       } ,
+    "date" : "2011-09-13" ,
+    } ,
+    "release-event-list" : {
+     "count" : "1",
+     "release-event" : {
+      "date" : "2011-09-13" ,
+      } ,
+    "asin" : "B005DLBLFE" ,
+    } ,
+    "cover-art-archive" : {
+     "artwork" : "true" ,
+     } ,
+     "count" : "1" ,
+     } ,
+     "front" : "true" ,
+     } ,
+     "back" : "false" ,
+     } ,
+    "label-info-list" : {
+     "count" : "1",
+     "label-info" : {
+      "label" : {
+       "id" : "466110a7-fdc5-4e83-a440-1099f66b1dc2",
+       "name" : "Ferret Music" ,
+       } ,
+       "sort-name" : "Ferret Music" ,
+       } ,
+    "medium-list" : {
+     "count" : "1",
+     "medium" : {
+      "position" : "1" ,
+      } ,
+      "format" : "CD" ,
+      } ,
+      "disc-list" : {
+       "count" : "0" ,
+      } ,
+      "track-list" : {
+       "count" : "13" offset="0",
+       "track" : {
+        "id" : "49e0ec66-18cc-33b1-9adf-829fab15fee6",
+        "position" : "1" ,
+        } ,
+        "number" : "1" ,
+        } ,
+        "recording" : {
+         "id" : "b57659e4-eb7f-4ba8-ad9a-f0bf0716e8a8",
+         "title" : "Dead Throne" ,
+         } ,
+         "length" : "165000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "4301b2e4-81b4-3839-9293-c04d24632672",
+        "position" : "2" ,
+        } ,
+        "number" : "2" ,
+        } ,
+        "recording" : {
+         "id" : "9edf4a4c-5fa9-42f4-9a28-e0bc5bfd3c45",
+         "title" : "Untidaled" ,
+         } ,
+         "length" : "175000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "21cd1ce4-bf8b-3bf5-b3db-04b55c661e82",
+        "position" : "3" ,
+        } ,
+        "number" : "3" ,
+        } ,
+        "recording" : {
+         "id" : "f84c184a-7e2b-4888-ae32-e9aeef747c24",
+         "title" : "Mammoth" ,
+         } ,
+         "length" : "163000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "11ee7ef4-6cf6-3f63-a583-8d4629ede425",
+        "position" : "4" ,
+        } ,
+        "number" : "4" ,
+        } ,
+        "recording" : {
+         "id" : "6ee3ee94-92ed-4623-8aed-bc8b163f1fde",
+         "title" : "Vengeance" ,
+         } ,
+         "length" : "181000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "bae5dc1a-9fa5-3b3c-bd03-fec96d63b448",
+        "position" : "5" ,
+        } ,
+        "number" : "5" ,
+        } ,
+        "recording" : {
+         "id" : "51f25c0a-15e5-4873-ba25-e5bd77c60e6b",
+         "title" : "R.I.T." ,
+         } ,
+         "length" : "169000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "25c0dfeb-4ab1-30f6-80c4-ed6eafd45fdc",
+        "position" : "6" ,
+        } ,
+        "number" : "6" ,
+        } ,
+        "recording" : {
+         "id" : "c7cdbc4f-f0b4-437f-a7a7-d1dbc5c3db1c",
+         "title" : "My Questions" ,
+         } ,
+         "length" : "192000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "b3f76d3a-0c50-3b90-9054-f2fb0235f25f",
+        "position" : "7" ,
+        } ,
+        "number" : "7" ,
+        } ,
+        "recording" : {
+         "id" : "6edbe236-44dd-468d-a7af-4b4309dcad9d",
+         "title" : "Kansas" ,
+         } ,
+         "length" : "216000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "7316c236-b4a7-31e0-8863-660910596921",
+        "position" : "8" ,
+        } ,
+        "number" : "8" ,
+        } ,
+        "title" : "Born To Lose" ,
+        } ,
+        "recording" : {
+         "id" : "edba4619-eb0b-4e6c-8ac7-2af12bfa9adb",
+         "title" : "Born to Lose" ,
+         } ,
+         "length" : "184000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "9f9f85e5-6879-397b-b854-89122a607c19",
+        "position" : "9" ,
+        } ,
+        "number" : "9" ,
+        } ,
+        "recording" : {
+         "id" : "81166871-6a2c-4292-876e-41fe89885edc",
+         "title" : "Forever Decay" ,
+         } ,
+         "length" : "204000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "fda36491-4a3e-3dc5-9f8f-84290f91eafe",
+        "position" : "10" ,
+        } ,
+        "number" : "10" ,
+        } ,
+        "recording" : {
+         "id" : "6eeac274-dd5b-4b0b-9ceb-35413971e69e",
+         "title" : "Chicago" ,
+         } ,
+         "length" : "164000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "c5addc0f-215f-3a91-81f1-4c7cc38a65bf",
+        "position" : "11" ,
+        } ,
+        "number" : "11" ,
+        } ,
+        "recording" : {
+         "id" : "5055be86-8498-4178-b937-afbc44b7d6a4",
+         "title" : "Constance" ,
+         } ,
+         "length" : "199000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "b4393a06-d8f1-380b-8079-5cad98572fc0",
+        "position" : "12" ,
+        } ,
+        "number" : "12" ,
+        } ,
+        "recording" : {
+         "id" : "363f81a6-2184-4c8a-bc53-d4556fd2854e",
+         "title" : "Pretenders" ,
+         } ,
+         "length" : "208000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "592f9eca-721e-368e-9b3c-10a5e155de87",
+        "position" : "13" ,
+        } ,
+        "number" : "13" ,
+        } ,
+        "recording" : {
+         "id" : "443d777b-0ff3-458e-96b4-6a18670929d6",
+         "title" : "Holdfast" ,
+         } ,
+         "length" : "228000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+   "release" : {
+    "id" : "70bf91f6-6404-443e-9fd4-083ab090a421",
+    "title" : "8:18" ,
+    } ,
+    "status" : "Official" ,
+    } ,
+    "quality" : "normal" ,
+    } ,
+    "packaging" : "Jewel Case" ,
+    } ,
+    "text-representation" : {
+     "language" : "eng" ,
+     } ,
+     "script" : "Latn" ,
+     } ,
+    "artist-credit" : {
+     "name-credit" : {
+      "artist" : {
+       "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+       "name" : "The Devil Wears Prada" ,
+       } ,
+       "sort-name" : "Devil Wears Prada, The" ,
+       } ,
+    "date" : "2013-09-11" ,
+    } ,
+    "country" : "US" ,
+    } ,
+    "release-event-list" : {
+     "count" : "1",
+     "release-event" : {
+      "date" : "2013-09-11" ,
+      } ,
+      "area" : {
+       "id" : "489ce91b-6658-3307-9877-795b68554c98",
+       "name" : "United States" ,
+       } ,
+       "sort-name" : "United States" ,
+       } ,
+       "iso-3166-1-code-list" : {
+        "iso-3166-1-code" : "US" ,
+        } ,
+    "cover-art-archive" : {
+     "artwork" : "true" ,
+     } ,
+     "count" : "1" ,
+     } ,
+     "front" : "true" ,
+     } ,
+     "back" : "false" ,
+     } ,
+    "label-info-list" : {
+     "count" : "1",
+     "label-info" : {
+      "label" : {
+       "id" : "5899271b-a77a-4081-93a9-0bd05b9b4180",
+       "name" : "Roadrunner Records" ,
+       } ,
+       "sort-name" : "Roadrunner Records" ,
+       } ,
+       "label-code" : "9231" ,
+       } ,
+    "medium-list" : {
+     "count" : "1",
+     "medium" : {
+      "position" : "1" ,
+      } ,
+      "format" : "Digital Media" ,
+      } ,
+      "disc-list" : {
+       "count" : "0",
+      } ,
+      "track-list" : {
+       "count" : "13" offset="0",
+       "track" : {
+        "id" : "f3ad78ba-396d-46ae-a5ea-c9763fd0e41d",
+        "position" : "1" ,
+        } ,
+        "number" : "1" ,
+        } ,
+        "length" : "225503" ,
+        } ,
+        "recording" : {
+         "id" : "69aa4fce-9784-42ad-896d-8de0f5c8f1ee",
+         "title" : "Gloom" ,
+         } ,
+         "length" : "225503" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "d5a75944-5910-4b3a-846b-c54d6d57b3a5",
+        "position" : "2" ,
+        } ,
+        "number" : "2" ,
+        } ,
+        "length" : "182611" ,
+        } ,
+        "recording" : {
+         "id" : "b9553f59-69e3-4369-8a29-9f8c2d3041d2",
+         "title" : "Rumors" ,
+         } ,
+         "length" : "182611" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "c84fa03e-2c9d-48aa-a0d1-24c5df2b36eb",
+        "position" : "3" ,
+        } ,
+        "number" : "3" ,
+        } ,
+        "length" : "214630" ,
+        } ,
+        "recording" : {
+         "id" : "ec9cbcb1-0ea9-4365-a937-61b1e7272b05",
+         "title" : "First Sight" ,
+         } ,
+         "length" : "214630" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "a2b7571f-acc3-419a-91e2-fc71df34e332",
+        "position" : "4" ,
+        } ,
+        "number" : "4" ,
+        } ,
+        "length" : "182916" ,
+        } ,
+        "recording" : {
+         "id" : "3adf184f-c6d0-4d4e-be76-220aa10c80e8",
+         "title" : "War" ,
+         } ,
+         "length" : "182916" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "3f8ad9e8-4cd7-472f-b601-61400366b548",
+        "position" : "5" ,
+        } ,
+        "number" : "5" ,
+        } ,
+        "length" : "133276" ,
+        } ,
+        "recording" : {
+         "id" : "11277c93-db43-41b8-b6ac-1cb4e26ef05c",
+         "title" : "8:18" ,
+         } ,
+         "length" : "133276" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "38eac721-c640-4788-9cd6-85a85296a32f",
+        "position" : "6" ,
+        } ,
+        "number" : "6" ,
+        } ,
+        "length" : "232771" ,
+        } ,
+        "recording" : {
+         "id" : "1e062282-2939-4e10-84ad-9ac285e48275",
+         "title" : "Sailor's Prayer" ,
+         } ,
+         "length" : "232771" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "2a21aab4-5c42-48a1-8f02-71f9a40d9e5c",
+        "position" : "7" ,
+        } ,
+        "number" : "7" ,
+        } ,
+        "length" : "194990" ,
+        } ,
+        "recording" : {
+         "id" : "0f688421-abdf-4ea0-9188-8168018ed5ca",
+         "title" : "Care More" ,
+         } ,
+         "length" : "194990" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "b42a1e41-39ce-4443-906e-06f46d215cef",
+        "position" : "8" ,
+        } ,
+        "number" : "8" ,
+        } ,
+        "length" : "208018" ,
+        } ,
+        "recording" : {
+         "id" : "a88824b4-e8fe-43cf-bca7-c805e606226d",
+         "title" : "Martyrs" ,
+         } ,
+         "length" : "208018" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "7ad111fb-95ef-4c76-bb74-13c982ef2ac9",
+        "position" : "9" ,
+        } ,
+        "number" : "9" ,
+        } ,
+        "length" : "228067" ,
+        } ,
+        "recording" : {
+         "id" : "4d3c6873-d382-49ef-855c-f88d85b5348a",
+         "title" : "Black & Blue" ,
+         } ,
+         "length" : "228067" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "13d9a23a-5964-4a1f-839a-b3d7206411ff",
+        "position" : "10" ,
+        } ,
+        "number" : "10" ,
+        } ,
+        "length" : "215572" ,
+        } ,
+        "recording" : {
+         "id" : "efe9fd01-9453-4551-ba5d-1859107da7b8",
+         "title" : "Transgress" ,
+         } ,
+         "length" : "215572" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "2a3ed052-d6da-4210-a5b3-6de4489f91c9",
+        "position" : "11" ,
+        } ,
+        "number" : "11" ,
+        } ,
+        "length" : "195442" ,
+        } ,
+        "recording" : {
+         "id" : "94b78f2f-de8d-4283-b4fc-a79ae38322e8",
+         "title" : "Number Eleven" ,
+         } ,
+         "length" : "195442" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "f553e018-99b8-481e-bf4c-ec0d3dd78587",
+        "position" : "12" ,
+        } ,
+        "number" : "12" ,
+        } ,
+        "length" : "204992" ,
+        } ,
+        "recording" : {
+         "id" : "903826f0-512c-4ac1-a67e-e7704c7568e0",
+         "title" : "Home for Grave" ,
+         } ,
+         "length" : "204992" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "3250e492-f685-4ad7-b46d-ba2e8add7bd2",
+        "position" : "13" ,
+        } ,
+        "number" : "13" ,
+        } ,
+        "length" : "207044" ,
+        } ,
+        "recording" : {
+         "id" : "a7c7e843-f18f-4900-ab47-86e0842a0edf",
+         "title" : "In Heart" ,
+         } ,
+         "length" : "207044" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+   "release" : {
+    "id" : "36bf9138-a55a-4b57-ad4f-d991047397bf",
+    "title" : "With Roots Above and Branches Below" ,
+    } ,
+    "status" : "Official" ,
+    } ,
+    "quality" : "normal" ,
+    } ,
+    "text-representation" : {
+     "language" : "eng" ,
+     } ,
+     "script" : "Latn" ,
+     } ,
+    "artist-credit" : {
+     "name-credit" : {
+      "artist" : {
+       "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+       "name" : "The Devil Wears Prada" ,
+       } ,
+       "sort-name" : "Devil Wears Prada, The" ,
+       } ,
+    "date" : "2009-05-05" ,
+    } ,
+    "country" : "US" ,
+    } ,
+    "release-event-list" : {
+     "count" : "1",
+     "release-event" : {
+      "date" : "2009-05-05" ,
+      } ,
+      "area" : {
+       "id" : "489ce91b-6658-3307-9877-795b68554c98",
+       "name" : "United States" ,
+       } ,
+       "sort-name" : "United States" ,
+       } ,
+       "iso-3166-1-code-list" : {
+        "iso-3166-1-code" : "US" ,
+        } ,
+    "barcode" : "0828136012328" ,
+    } ,
+    "asin" : "B001W9SYSS" ,
+    } ,
+    "cover-art-archive" : {
+     "artwork" : "true" ,
+     } ,
+     "count" : "1" ,
+     } ,
+     "front" : "true" ,
+     } ,
+     "back" : "false" ,
+     } ,
+    "label-info-list" : {
+     "count" : "1",
+     "label-info" : {
+      "catalog-number" : "F123" ,
+      } ,
+      "label" : {
+       "id" : "466110a7-fdc5-4e83-a440-1099f66b1dc2",
+       "name" : "Ferret Music" ,
+       } ,
+       "sort-name" : "Ferret Music" ,
+       } ,
+    "medium-list" : {
+     "count" : "1",
+     "medium" : {
+      "position" : "1" ,
+      } ,
+      "format" : "CD" ,
+      } ,
+      "disc-list" : {
+       "count" : "1",
+       "disc" : {
+        "id" : "95jdY1N0TNZgXEF0IyViOeukGeo-",
+        "sectors" : "181857" ,
+        } ,
+      "track-list" : {
+       "count" : "11" offset="0",
+       "track" : {
+        "id" : "47ce2f17-93f5-387d-81e5-8a8b079b97fe",
+        "position" : "1" ,
+        } ,
+        "number" : "1" ,
+        } ,
+        "length" : "195906" ,
+        } ,
+        "recording" : {
+         "id" : "017be3d3-b97d-4e00-aa5f-9da120150f69",
+         "title" : "Sassafras" ,
+         } ,
+         "length" : "195000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "d057c11b-2d90-374b-9e71-9d337c68328c",
+        "position" : "2" ,
+        } ,
+        "number" : "2" ,
+        } ,
+        "length" : "185413" ,
+        } ,
+        "recording" : {
+         "id" : "3889fec3-3389-453f-b4b9-2e62a4a5784c",
+         "title" : "I Hate Buffering" ,
+         } ,
+         "length" : "185413" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "647c3c62-f194-3e36-8f72-fdc20b49fb23",
+        "position" : "3" ,
+        } ,
+        "number" : "3" ,
+        } ,
+        "length" : "217253" ,
+        } ,
+        "recording" : {
+         "id" : "8ab8a18a-4a8d-4124-ad2f-6e6cd70b0103",
+         "title" : "Assistant to the Regional Manager" ,
+         } ,
+         "length" : "217253" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "969e91c0-7b28-391e-bd6a-cdb924dcf4db",
+        "position" : "4" ,
+        } ,
+        "number" : "4" ,
+        } ,
+        "length" : "243600" ,
+        } ,
+        "recording" : {
+         "id" : "c7ddfa27-b910-44ee-9266-04d6e4fdb36d",
+         "title" : "Dez Moines" ,
+         } ,
+         "length" : "243600" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "37306247-81b6-3e8e-9a6b-e3d6d652894c",
+        "position" : "5" ,
+        } ,
+        "number" : "5" ,
+        } ,
+        "length" : "253213" ,
+        } ,
+        "recording" : {
+         "id" : "f3836c4b-b932-4407-b59a-301c13debcd0",
+         "title" : "Big Wiggly Style" ,
+         } ,
+         "length" : "253213" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "fcdcee0a-07b1-3b0d-a352-92efe360d3f1",
+        "position" : "6" ,
+        } ,
+        "number" : "6" ,
+        } ,
+        "length" : "241440" ,
+        } ,
+        "recording" : {
+         "id" : "3c9afbf3-a87b-4527-a895-004daef19b40",
+         "title" : "Danger: Wildman" ,
+         } ,
+         "length" : "241440" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "4023e8d9-ead2-391f-bb83-000e243987a4",
+        "position" : "7" ,
+        } ,
+        "number" : "7" ,
+        } ,
+        "length" : "237186" ,
+        } ,
+        "recording" : {
+         "id" : "f7adc484-c248-443c-b08a-034beaaa3fee",
+         "title" : "Ben Has a Kid" ,
+         } ,
+         "length" : "237186" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "6b49cd0f-c079-307c-8da4-b5008f1385c1",
+        "position" : "8" ,
+        } ,
+        "number" : "8" ,
+        } ,
+        "length" : "223813" ,
+        } ,
+        "recording" : {
+         "id" : "6331a6a2-1895-4432-9f56-95e1a36e30e4",
+         "title" : "Wapakalypse" ,
+         } ,
+         "length" : "223813" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "7f933252-c323-3bdc-8d9c-5440cb43282c",
+        "position" : "9" ,
+        } ,
+        "number" : "9" ,
+        } ,
+        "length" : "261773" ,
+        } ,
+        "recording" : {
+         "id" : "2b3bf518-7750-4a1c-8602-40c01a265b3b",
+         "title" : "Gimme Half" ,
+         } ,
+         "length" : "261773" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "43ff2d89-b167-3aed-a729-1a309480f8e2",
+        "position" : "10" ,
+        } ,
+        "number" : "10" ,
+        } ,
+        "length" : "157493" ,
+        } ,
+        "recording" : {
+         "id" : "d201602e-2b61-4849-8c25-3c34713b991b",
+         "title" : "Louder Than Thunder" ,
+         } ,
+         "length" : "157493" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "f0ae9350-d5e1-3213-9e32-5e7212477cb5",
+        "position" : "11" ,
+        } ,
+        "number" : "11" ,
+        } ,
+        "length" : "205666" ,
+        } ,
+        "recording" : {
+         "id" : "a98391d2-52f1-4f9c-8a0a-ff1312074076",
+         "title" : "Lord Xenu" ,
+         } ,
+         "length" : "205666" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+   "release" : {
+    "id" : "3805f31e-e6e1-4794-9747-63e5bf9ca7c8",
+    "title" : "Plagues" ,
+    } ,
+    "status" : "Official" ,
+    } ,
+    "quality" : "normal" ,
+    } ,
+    "text-representation" : {
+     "language" : "eng" ,
+     } ,
+     "script" : "Latn" ,
+     } ,
+    "artist-credit" : {
+     "name-credit" : {
+      "artist" : {
+       "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+       "name" : "The Devil Wears Prada" ,
+       } ,
+       "sort-name" : "Devil Wears Prada, The" ,
+       } ,
+    "date" : "2007-08-21" ,
+    } ,
+    "country" : "US" ,
+    } ,
+    "release-event-list" : {
+     "count" : "1",
+     "release-event" : {
+      "date" : "2007-08-21" ,
+      } ,
+      "area" : {
+       "id" : "489ce91b-6658-3307-9877-795b68554c98",
+       "name" : "United States" ,
+       } ,
+       "sort-name" : "United States" ,
+       } ,
+       "iso-3166-1-code-list" : {
+        "iso-3166-1-code" : "US" ,
+        } ,
+    "asin" : "B000TE8BLC" ,
+    } ,
+    "cover-art-archive" : {
+     "artwork" : "true" ,
+     } ,
+     "count" : "1" ,
+     } ,
+     "front" : "true" ,
+     } ,
+     "back" : "false" ,
+     } ,
+    "label-info-list" : {
+     "count" : "1",
+     "label-info" : {
+      "label" : {
+       "id" : "57f4e6ff-51f9-430f-bae6-df7cbefecbf9",
+       "name" : "Rise Records" ,
+       } ,
+       "sort-name" : "Rise Records" ,
+       } ,
+       "disambiguation" : "US rock" ,
+       } ,
+    "medium-list" : {
+     "count" : "1",
+     "medium" : {
+      "position" : "1" ,
+      } ,
+      "format" : "CD" ,
+      } ,
+      "disc-list" : {
+       "count" : "2",
+       "disc" : {
+        "id" : "BI3N6ojwaZrPnQp7dbmEkHE0OGo-",
+        "sectors" : "170299" ,
+        } ,
+       "disc" : {
+        "id" : "jAf7.I_udT11T6ZGE0q8DGeZ10g-",
+        "sectors" : "171730" ,
+        } ,
+      "track-list" : {
+       "count" : "10" offset="0",
+       "track" : {
+        "id" : "e9c2c4fc-1e72-34a9-9623-88a71fa3f91b",
+        "position" : "1" ,
+        } ,
+        "number" : "1" ,
+        } ,
+        "length" : "262000" ,
+        } ,
+        "recording" : {
+         "id" : "7d9d8a5d-7c39-446d-b3a1-5dd8807fad1d",
+         "title" : "Goats on a Boat" ,
+         } ,
+         "length" : "262000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "52692f9c-fa2b-373b-97b5-5cabaf7653d6",
+        "position" : "2" ,
+        } ,
+        "number" : "2" ,
+        } ,
+        "length" : "221000" ,
+        } ,
+        "recording" : {
+         "id" : "4ce237f5-70c5-4044-a324-a49906b575be",
+         "title" : "Number Three, Never Forget" ,
+         } ,
+         "length" : "221000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "d5683199-45a8-3999-924d-9c5706713dcc",
+        "position" : "3" ,
+        } ,
+        "number" : "3" ,
+        } ,
+        "length" : "235000" ,
+        } ,
+        "recording" : {
+         "id" : "f1daf90c-46a3-40fb-be4d-71da13697e89",
+         "title" : "HTML Rulez d00d" ,
+         } ,
+         "length" : "235000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "241daaba-12c0-330b-bde6-15255b7faa70",
+        "position" : "4" ,
+        } ,
+        "number" : "4" ,
+        } ,
+        "length" : "226000" ,
+        } ,
+        "recording" : {
+         "id" : "33c0ea13-75e7-4d86-a76a-8ab34000b768",
+         "title" : "Hey John, What's Your Name Again?" ,
+         } ,
+         "length" : "226000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "f6350ef3-7112-3616-be7d-ddfcff357435",
+        "position" : "5" ,
+        } ,
+        "number" : "5" ,
+        } ,
+        "length" : "179000" ,
+        } ,
+        "recording" : {
+         "id" : "d10c7415-4284-4a16-adbf-f7e25e95f9bf",
+         "title" : "Don't Dink and Drance" ,
+         } ,
+         "length" : "179000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "bb69d244-40a1-37bc-81a6-2e0347bb54bd",
+        "position" : "6" ,
+        } ,
+        "number" : "6" ,
+        } ,
+        "length" : "210000" ,
+        } ,
+        "recording" : {
+         "id" : "e48d2b8f-a9a3-477c-9148-9951fa417f55",
+         "title" : "You Can't Spell Crap Without "C"" ,
+         } ,
+         "length" : "210000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "3b4eb3cd-2a20-3d85-88f6-d4c4701bcc5e",
+        "position" : "7" ,
+        } ,
+        "number" : "7" ,
+        } ,
+        "length" : "265000" ,
+        } ,
+        "recording" : {
+         "id" : "e05d2be4-fd4a-4b22-8220-56f907d2a46a",
+         "title" : "This Song Is Called" ,
+         } ,
+         "length" : "265000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "f095b329-710a-3586-99a7-bf32a43b5948",
+        "position" : "8" ,
+        } ,
+        "number" : "8" ,
+        } ,
+        "length" : "189000" ,
+        } ,
+        "recording" : {
+         "id" : "8c3b75ab-75f3-45e8-81e8-7be5ff7dbda7",
+         "title" : "Reptar, King of the Ozone" ,
+         } ,
+         "length" : "189000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "b5d6efa1-bb69-3dfc-82a9-101c6909da7e",
+        "position" : "9" ,
+        } ,
+        "number" : "9" ,
+        } ,
+        "length" : "230000" ,
+        } ,
+        "recording" : {
+         "id" : "75172266-ab20-4b7b-a7f9-ef20814cb425",
+         "title" : "The Scorpion Deathlock" ,
+         } ,
+         "length" : "230000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "078b6e6f-7245-304b-863e-83faec25fd9a",
+        "position" : "10" ,
+        } ,
+        "number" : "10" ,
+        } ,
+        "length" : "247000" ,
+        } ,
+        "recording" : {
+         "id" : "d5607eba-3b74-4edb-bf4d-8be5715c81e0",
+         "title" : "Nickels Is Money Too" ,
+         } ,
+         "length" : "247000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+   "release" : {
+    "id" : "3990b389-b207-4e15-8164-c52e97734051",
+    "title" : "Dear Love: A Beautiful Discord" ,
+    } ,
+    "status" : "Official" ,
+    } ,
+    "quality" : "normal" ,
+    } ,
+    "text-representation" : {
+     "language" : "eng" ,
+     } ,
+     "script" : "Latn" ,
+     } ,
+    "artist-credit" : {
+     "name-credit" : {
+      "artist" : {
+       "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+       "name" : "The Devil Wears Prada" ,
+       } ,
+       "sort-name" : "Devil Wears Prada, The" ,
+       } ,
+    "date" : "2006-08-22" ,
+    } ,
+    "country" : "US" ,
+    } ,
+    "release-event-list" : {
+     "count" : "1",
+     "release-event" : {
+      "date" : "2006-08-22" ,
+      } ,
+      "area" : {
+       "id" : "489ce91b-6658-3307-9877-795b68554c98",
+       "name" : "United States" ,
+       } ,
+       "sort-name" : "United States" ,
+       } ,
+       "iso-3166-1-code-list" : {
+        "iso-3166-1-code" : "US" ,
+        } ,
+    "barcode" : "854132001080" ,
+    } ,
+    "asin" : "B000GIXHJM" ,
+    } ,
+    "cover-art-archive" : {
+     "artwork" : "true" ,
+     } ,
+     "count" : "1" ,
+     } ,
+     "front" : "true" ,
+     } ,
+     "back" : "false" ,
+     } ,
+    "label-info-list" : {
+     "count" : "1",
+     "label-info" : {
+      "catalog-number" : "Rise042" ,
+      } ,
+      "label" : {
+       "id" : "57f4e6ff-51f9-430f-bae6-df7cbefecbf9",
+       "name" : "Rise Records" ,
+       } ,
+       "sort-name" : "Rise Records" ,
+       } ,
+       "disambiguation" : "US rock" ,
+       } ,
+    "medium-list" : {
+     "count" : "1",
+     "medium" : {
+      "position" : "1" ,
+      } ,
+      "format" : "CD" ,
+      } ,
+      "disc-list" : {
+       "count" : "1",
+       "disc" : {
+        "id" : "OR_zOBafZgEXbzVFVjLeO2fXk7E-",
+        "sectors" : "180165" ,
+        } ,
+      "track-list" : {
+       "count" : "11" offset="0",
+       "track" : {
+        "id" : "b9fedbaf-089d-3d7d-874c-bb8748bf47d7",
+        "position" : "1" ,
+        } ,
+        "number" : "1" ,
+        } ,
+        "length" : "69000" ,
+        } ,
+        "recording" : {
+         "id" : "7b37c589-3014-4086-8699-cf9ed612fdf6",
+         "title" : "The Ascent" ,
+         } ,
+         "length" : "69000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "b3ab2743-034e-3a50-8ab0-35a01800ce18",
+        "position" : "2" ,
+        } ,
+        "number" : "2" ,
+        } ,
+        "length" : "161000" ,
+        } ,
+        "recording" : {
+         "id" : "662fed0c-9cf0-40b8-8efb-e486dd3ce1e1",
+         "title" : "Gauntlet of Solitude" ,
+         } ,
+         "length" : "161000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "09656e01-f0db-3ab3-adc8-938222d60f27",
+        "position" : "3" ,
+        } ,
+        "number" : "3" ,
+        } ,
+        "length" : "209000" ,
+        } ,
+        "recording" : {
+         "id" : "bb9a6923-130b-4fbf-abaf-91c0cd657fdd",
+         "title" : "Dogs Can Grow Beards All Over" ,
+         } ,
+         "length" : "209000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "b9b862ba-4ba9-33a4-a993-e956905031a0",
+        "position" : "4" ,
+        } ,
+        "number" : "4" ,
+        } ,
+        "length" : "253000" ,
+        } ,
+        "recording" : {
+         "id" : "0a2951ba-59a1-437f-9b63-871be5c7b634",
+         "title" : "And the Sentence Trails Off..." ,
+         } ,
+         "length" : "253000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "7bcf7682-ed49-35fa-8955-4e4b95e30149",
+        "position" : "5" ,
+        } ,
+        "number" : "5" ,
+        } ,
+        "length" : "309000" ,
+        } ,
+        "recording" : {
+         "id" : "024c824a-885e-42bc-814a-d2781e1ad17b",
+         "title" : "Rosemary Had an Accident" ,
+         } ,
+         "length" : "309000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "967e7bb2-880d-35b9-bfbf-cee7e3a40388",
+        "position" : "6" ,
+        } ,
+        "number" : "6" ,
+        } ,
+        "length" : "51000" ,
+        } ,
+        "recording" : {
+         "id" : "c88e6df6-27ad-4743-81c7-ade482bbbe4c",
+         "title" : "Redemption" ,
+         } ,
+         "length" : "51000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "57eb2a64-485b-3e2a-a71e-882dc9cdddb3",
+        "position" : "7" ,
+        } ,
+        "number" : "7" ,
+        } ,
+        "length" : "246000" ,
+        } ,
+        "recording" : {
+         "id" : "388e146e-ab04-489b-8e69-bbc865e3663f",
+         "title" : "Swords, Dragons, and Diet Coke" ,
+         } ,
+         "length" : "246000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "690e0d7e-b1f1-3470-a569-ba85627ce33f",
+        "position" : "8" ,
+        } ,
+        "number" : "8" ,
+        } ,
+        "length" : "238000" ,
+        } ,
+        "recording" : {
+         "id" : "aeefca5f-1ad7-458e-bf5a-c764b34a79f6",
+         "title" : "Who Speaks Spanish, Colon Quesadilla" ,
+         } ,
+         "length" : "238000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "cff15e2d-315f-3a66-a462-44c65c50b0c7",
+        "position" : "9" ,
+        } ,
+        "number" : "9" ,
+        } ,
+        "length" : "368000" ,
+        } ,
+        "recording" : {
+         "id" : "e95d5a24-1320-47ea-a391-1982f1b9ee3c",
+         "title" : "Texas Is South" ,
+         } ,
+         "length" : "368000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "903d6e67-cffe-3bbc-8fd7-b07e28110960",
+        "position" : "10" ,
+        } ,
+        "number" : "10" ,
+        } ,
+        "length" : "275000" ,
+        } ,
+        "recording" : {
+         "id" : "4e00e93e-2237-4f48-bec7-de1cc1eaad8b",
+         "title" : "Modify the Pronunciation" ,
+         } ,
+         "length" : "275000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+       "track" : {
+        "id" : "d79af092-0f47-3d22-8f79-00b36d6951a9",
+        "position" : "11" ,
+        } ,
+        "number" : "11" ,
+        } ,
+        "length" : "216000" ,
+        } ,
+        "recording" : {
+         "id" : "4636074d-8aba-49f5-99f0-61bec5f380ac",
+         "title" : "Salvation" ,
+         } ,
+         "length" : "216000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "43c0958c-27ef-46c4-b4cc-83cfca54170d",
+            "name" : "The Devil Wears Prada" ,
+            } ,
+            "sort-name" : "Devil Wears Prada, The" ,
+            } ,
+   "release" : {
+    "id" : "c21a8a63-2a58-427e-b9eb-7e1e2f8a475d",
+    "title" : "Sleepwalking" ,
+    } ,
+    "status" : "Official" ,
+    } ,
+    "quality" : "normal" ,
+    } ,
+    "text-representation" : {
+     "language" : "eng" ,
+     } ,
+     "script" : "Latn" ,
+     } ,
+    "artist-credit" : {
+     "name-credit" : {
+      "artist" : {
+       "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+       "name" : "Memphis May Fire" ,
+       } ,
+       "sort-name" : "Memphis May Fire" ,
+       } ,
+    "date" : "2009-07-21" ,
+    } ,
+    "country" : "US" ,
+    } ,
+    "release-event-list" : {
+     "count" : "1",
+     "release-event" : {
+      "date" : "2009-07-21" ,
+      } ,
+      "area" : {
+       "id" : "489ce91b-6658-3307-9877-795b68554c98",
+       "name" : "United States" ,
+       } ,
+       "sort-name" : "United States" ,
+       } ,
+       "iso-3166-1-code-list" : {
+        "iso-3166-1-code" : "US" ,
+        } ,
+    "cover-art-archive" : {
+     "artwork" : "true" ,
+     } ,
+     "count" : "1" ,
+     } ,
+     "front" : "true" ,
+     } ,
+     "back" : "false" ,
+     } ,
+    "label-info-list" : {
+     "count" : "1",
+     "label-info" : {
+      "label" : {
+       "id" : "33db4c64-50d3-4ffd-8f52-e8e669291f6e",
+       "name" : "Trustkill Records" ,
+       } ,
+       "sort-name" : "Trustkill Records" ,
+       } ,
+    "medium-list" : {
+     "count" : "1",
+     "medium" : {
+      "position" : "1" ,
+      } ,
+      "format" : "CD" ,
+      } ,
+      "disc-list" : {
+       "count" : "0",
+      } ,
+      "track-list" : {
+       "count" : "10" offset="0",
+       "track" : {
+        "id" : "64f9e2aa-2a97-3ac6-916d-3bebbba44eea",
+        "position" : "1" ,
+        } ,
+        "number" : "1" ,
+        } ,
+        "length" : "223000" ,
+        } ,
+        "recording" : {
+         "id" : "ce3a8f33-cc90-4f9f-b8dd-a469961af9a8",
+         "title" : "North Atlantic vs. North Carolina" ,
+         } ,
+         "length" : "223000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "3e35f9f9-6848-3723-b88d-61feeae354cc",
+        "position" : "2" ,
+        } ,
+        "number" : "2" ,
+        } ,
+        "length" : "194000" ,
+        } ,
+        "recording" : {
+         "id" : "4b09cc4a-a164-464d-b2ae-c6edd02bf430",
+         "title" : "A Giant in a Giants World" ,
+         } ,
+         "length" : "194000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "0a868142-3b32-33e6-8340-80aa5cd5b3da",
+        "position" : "3" ,
+        } ,
+        "number" : "3" ,
+        } ,
+        "length" : "220000" ,
+        } ,
+        "recording" : {
+         "id" : "b46f2a9e-419c-46b9-9ca8-03b7783fa1ff",
+         "title" : "You're Lucky It's Not 1692" ,
+         } ,
+         "length" : "220000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "1cb0befe-e27f-3c32-a012-db11078604b5",
+        "position" : "4" ,
+        } ,
+        "number" : "4" ,
+        } ,
+        "length" : "234000" ,
+        } ,
+        "recording" : {
+         "id" : "2f73c5df-256b-48da-bc66-ec2697b1bcd0",
+         "title" : "Ghost in the Mirror" ,
+         } ,
+         "length" : "234000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "16f13bbf-7591-38d0-971e-331d6899f3df",
+        "position" : "5" ,
+        } ,
+        "number" : "5" ,
+        } ,
+        "length" : "209000" ,
+        } ,
+        "recording" : {
+         "id" : "85817711-db63-4541-bf70-6f272589dc8b",
+         "title" : "Been There, Done That" ,
+         } ,
+         "length" : "209000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "d95b0523-b323-3279-8766-9f2e5f2a036b",
+        "position" : "6" ,
+        } ,
+        "number" : "6" ,
+        } ,
+        "length" : "208000" ,
+        } ,
+        "recording" : {
+         "id" : "b36e7e4e-a554-4b3f-bf9a-ef527e25d5a7",
+         "title" : "Quantity Is Their Quality" ,
+         } ,
+         "length" : "208000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "dbbd5a6e-7afe-31e7-be10-ad134eaadabe",
+        "position" : "7" ,
+        } ,
+        "number" : "7" ,
+        } ,
+        "length" : "227000" ,
+        } ,
+        "recording" : {
+         "id" : "4b4173e8-c8b9-4c12-bce0-e5f9d188df29",
+         "title" : "Sleepwalking" ,
+         } ,
+         "length" : "227000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "d7a9fcc1-0a8c-348c-9986-622a98acbd78",
+        "position" : "8" ,
+        } ,
+        "number" : "8" ,
+        } ,
+        "length" : "185000" ,
+        } ,
+        "recording" : {
+         "id" : "7faea896-e54d-4202-9372-e19007fa8b2f",
+         "title" : "Destiny for the Willing" ,
+         } ,
+         "length" : "185000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "61919e7b-f0ad-3b9a-b818-3b60abf8e88d",
+        "position" : "9" ,
+        } ,
+        "number" : "9" ,
+        } ,
+        "length" : "190000" ,
+        } ,
+        "recording" : {
+         "id" : "1ff89ffb-ecef-4852-bd47-bc9dc8cda7a2",
+         "title" : "The Face With No Name" ,
+         } ,
+         "length" : "190000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "4041344d-7b33-3579-b135-950d967f29bd",
+        "position" : "10" ,
+        } ,
+        "number" : "10" ,
+        } ,
+        "length" : "220000" ,
+        } ,
+        "recording" : {
+         "id" : "aaccae69-ea05-4b41-8bd2-79dbf981e919",
+         "title" : "Speak Now I'm Listening" ,
+         } ,
+         "length" : "220000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+   "release" : {
+    "id" : "6092b1b4-90f3-4f68-9792-fedaae699d01",
+    "title" : "The Hollow" ,
+    } ,
+    "status" : "Official" ,
+    } ,
+    "quality" : "normal" ,
+    } ,
+    "text-representation" : {
+     "language" : "eng" ,
+     } ,
+     "script" : "Latn" ,
+     } ,
+    "artist-credit" : {
+     "name-credit" : {
+      "artist" : {
+       "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+       "name" : "Memphis May Fire" ,
+       } ,
+       "sort-name" : "Memphis May Fire" ,
+       } ,
+    "date" : "2011-04-25" ,
+    } ,
+    "country" : "US" ,
+    } ,
+    "release-event-list" : {
+     "count" : "1",
+     "release-event" : {
+      "date" : "2011-04-25" ,
+      } ,
+      "area" : {
+       "id" : "489ce91b-6658-3307-9877-795b68554c98",
+       "name" : "United States" ,
+       } ,
+       "sort-name" : "United States" ,
+       } ,
+       "iso-3166-1-code-list" : {
+        "iso-3166-1-code" : "US" ,
+        } ,
+    "asin" : "B004WC45IK" ,
+    } ,
+    "cover-art-archive" : {
+     "artwork" : "true" ,
+     } ,
+     "count" : "1" ,
+     } ,
+     "front" : "true" ,
+     } ,
+     "back" : "false" ,
+     } ,
+    "label-info-list" : {
+     "count" : "1",
+     "label-info" : {
+      "catalog-number" : "RISE 130" ,
+      } ,
+      "label" : {
+       "id" : "57f4e6ff-51f9-430f-bae6-df7cbefecbf9",
+       "name" : "Rise Records" ,
+       } ,
+       "sort-name" : "Rise Records" ,
+       } ,
+       "disambiguation" : "US rock" ,
+       } ,
+    "medium-list" : {
+     "count" : "1",
+     "medium" : {
+      "position" : "1" ,
+      } ,
+      "disc-list" : {
+       "count" : "1",
+       "disc" : {
+        "id" : "lZR2dmqCmUkdHu0ZZwsIPsEVi64-",
+        "sectors" : "187222" ,
+        } ,
+      "track-list" : {
+       "count" : "10" offset="0",
+       "track" : {
+        "id" : "af27c59b-036c-3064-8661-2e0fe58e119c",
+        "position" : "1" ,
+        } ,
+        "number" : "1" ,
+        } ,
+        "length" : "242000" ,
+        } ,
+        "recording" : {
+         "id" : "786b5d43-3e39-46aa-8c5b-f51463ae1b06",
+         "title" : "The Sinner" ,
+         } ,
+         "length" : "242000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "a1f4e0ef-e94c-3dd2-b2ff-fcd221ce6c64",
+        "position" : "2" ,
+        } ,
+        "number" : "2" ,
+        } ,
+        "length" : "237000" ,
+        } ,
+        "recording" : {
+         "id" : "6e2cb45b-9aa4-4bb8-9c04-25570726b34e",
+         "title" : "The Unfaithful" ,
+         } ,
+         "length" : "237000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "42f0fcf1-396a-35fc-b4ff-d0786cb77ca3",
+        "position" : "3" ,
+        } ,
+        "number" : "3" ,
+        } ,
+        "length" : "238000" ,
+        } ,
+        "recording" : {
+         "id" : "8e7bc301-9679-4a6b-b674-abf1f3357e43",
+         "title" : "The Victim" ,
+         } ,
+         "length" : "238000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "a4c29fb2-b67f-3d01-b3e7-9295b40bc23a",
+        "position" : "4" ,
+        } ,
+        "number" : "4" ,
+        } ,
+        "length" : "219000" ,
+        } ,
+        "recording" : {
+         "id" : "337e752e-b289-4cbf-9090-c73c1e3b3fea",
+         "title" : "The Abandoned" ,
+         } ,
+         "length" : "219000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "f191cf26-42f4-3e2b-9ddb-32f1ce2ccf1e",
+        "position" : "5" ,
+        } ,
+        "number" : "5" ,
+        } ,
+        "length" : "245000" ,
+        } ,
+        "recording" : {
+         "id" : "6732019c-c9be-4dbd-b360-e5d866b63803",
+         "title" : "The Deceived" ,
+         } ,
+         "length" : "245000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "14e631d6-569e-3017-b68f-77b54ae39a1e",
+        "position" : "6" ,
+        } ,
+        "number" : "6" ,
+        } ,
+        "length" : "211000" ,
+        } ,
+        "recording" : {
+         "id" : "0d881313-3ca0-4909-bad0-2f58efd89954",
+         "title" : "The Commanded" ,
+         } ,
+         "length" : "211000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "1496bf70-f58f-37be-a971-9274218f3959",
+        "position" : "7" ,
+        } ,
+        "number" : "7" ,
+        } ,
+        "length" : "197000" ,
+        } ,
+        "recording" : {
+         "id" : "35a41734-1d8f-4438-ad47-f17757c7ec5e",
+         "title" : "The Burden (interlude)" ,
+         } ,
+         "length" : "197000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "b61ea0c2-dcc1-372c-be0c-e895c3854b69",
+        "position" : "8" ,
+        } ,
+        "number" : "8" ,
+        } ,
+        "length" : "222000" ,
+        } ,
+        "recording" : {
+         "id" : "032d32a8-8e0e-4509-b7ec-13a6adb40c54",
+         "title" : "The Haunted" ,
+         } ,
+         "length" : "222000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "9f922f28-d1cd-3a87-a03d-aa43ac911509",
+        "position" : "9" ,
+        } ,
+        "number" : "9" ,
+        } ,
+        "length" : "287000" ,
+        } ,
+        "recording" : {
+         "id" : "d4b5544f-78ab-493f-8c03-89c8de4e3ad2",
+         "title" : "The Reality" ,
+         } ,
+         "length" : "287000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "21d50cf0-0aee-317f-9340-032b7ba98f46",
+        "position" : "10" ,
+        } ,
+        "number" : "10" ,
+        } ,
+        "length" : "391000" ,
+        } ,
+        "recording" : {
+         "id" : "dfc2f7aa-41ab-451b-b657-d1d2ec2bcb15",
+         "title" : "The Redeemed" ,
+         } ,
+         "length" : "391000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+   "release" : {
+    "id" : "7231fc60-0198-4931-8bfc-bb06ce6cdf96",
+    "title" : "Challenger" ,
+    } ,
+    "status" : "Official" ,
+    } ,
+    "quality" : "normal" ,
+    } ,
+    "text-representation" : {
+     "language" : "eng" ,
+     } ,
+     "script" : "Latn" ,
+     } ,
+    "artist-credit" : {
+     "name-credit" : {
+      "artist" : {
+       "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+       "name" : "Memphis May Fire" ,
+       } ,
+       "sort-name" : "Memphis May Fire" ,
+       } ,
+    "date" : "2012-06-26" ,
+    } ,
+    "country" : "US" ,
+    } ,
+    "release-event-list" : {
+     "count" : "1",
+     "release-event" : {
+      "date" : "2012-06-26" ,
+      } ,
+      "area" : {
+       "id" : "489ce91b-6658-3307-9877-795b68554c98",
+       "name" : "United States" ,
+       } ,
+       "sort-name" : "United States" ,
+       } ,
+       "iso-3166-1-code-list" : {
+        "iso-3166-1-code" : "US" ,
+        } ,
+    "cover-art-archive" : {
+     "artwork" : "true" ,
+     } ,
+     "count" : "1" ,
+     } ,
+     "front" : "true" ,
+     } ,
+     "back" : "false" ,
+     } ,
+    "label-info-list" : {
+     "count" : "1",
+     "label-info" : {
+      "label" : {
+       "id" : "57f4e6ff-51f9-430f-bae6-df7cbefecbf9",
+       "name" : "Rise Records" ,
+       } ,
+       "sort-name" : "Rise Records" ,
+       } ,
+       "disambiguation" : "US rock" ,
+       } ,
+    "medium-list" : {
+     "count" : "1",
+     "medium" : {
+      "position" : "1" ,
+      } ,
+      "format" : "CD" ,
+      } ,
+      "disc-list" : {
+       "count" : "1",
+       "disc" : {
+        "id" : "H4smmrnCqdwLqiYJd1ZFgpPlHC4-",
+        "sectors" : "188916" ,
+        } ,
+      "track-list" : {
+       "count" : "11" offset="0",
+       "track" : {
+        "id" : "53bd0830-c97b-3a91-8d84-f7f6d9035b2a",
+        "position" : "1" ,
+        } ,
+        "number" : "1" ,
+        } ,
+        "length" : "101000" ,
+        } ,
+        "recording" : {
+         "id" : "3e91415a-e9b9-49ca-a64e-52b920556acb",
+         "title" : "Without Walls" ,
+         } ,
+         "length" : "101000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "d4676d38-f3f0-3d6c-b7b7-16e66d4ec629",
+        "position" : "2" ,
+        } ,
+        "number" : "2" ,
+        } ,
+        "length" : "251000" ,
+        } ,
+        "recording" : {
+         "id" : "224a9697-558c-4d7e-b945-af28047f891e",
+         "title" : "Alive in the Lights" ,
+         } ,
+         "length" : "251000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "a434854b-ef9c-3828-b697-a748fd1be6ac",
+        "position" : "3" ,
+        } ,
+        "number" : "3" ,
+        } ,
+        "length" : "249000" ,
+        } ,
+        "recording" : {
+         "id" : "fc2b265c-1e83-4d43-94fa-a85b118cf292",
+         "title" : "Prove Me Right" ,
+         } ,
+         "length" : "249000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "df904e37-9a90-31b5-9381-7962ca8d4817",
+        "position" : "4" ,
+        } ,
+        "number" : "4" ,
+        } ,
+        "title" : "Red in Tooth and Claw" ,
+        } ,
+        "length" : "254000" ,
+        } ,
+        "recording" : {
+         "id" : "d2016d79-8a5f-4193-b3fa-3bdb10ab6785",
+         "title" : "Red in Tooth & Claw" ,
+         } ,
+         "length" : "254000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "855f4a0b-06e9-3235-bc3c-cbce444065b8",
+        "position" : "5" ,
+        } ,
+        "number" : "5" ,
+        } ,
+        "length" : "248000" ,
+        } ,
+        "recording" : {
+         "id" : "de33000f-b7c5-405b-9fe3-01e17aed9a4d",
+         "title" : "Vices" ,
+         } ,
+         "length" : "248000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "3e3c41d8-e855-3b0a-adc6-b441fb1ce64f",
+        "position" : "6" ,
+        } ,
+        "number" : "6" ,
+        } ,
+        "length" : "244000" ,
+        } ,
+        "recording" : {
+         "id" : "f4a05ae2-e6fe-4fec-b255-ee4fdad6e98f",
+         "title" : "Legacy" ,
+         } ,
+         "length" : "244000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "0637612a-5f9e-3eef-a32f-06018b32b22d",
+        "position" : "7" ,
+        } ,
+        "number" : "7" ,
+        } ,
+        "length" : "252000" ,
+        } ,
+        "recording" : {
+         "id" : "83f0533b-6211-4a4d-ac70-2f0c07836cbd",
+         "title" : "Miles Away" ,
+         } ,
+         "length" : "252000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "joinphrase" : " feat. ",
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+          "name-credit" : {
+           "artist" : {
+            "id" : "08b24fae-6114-4af4-a10f-054e09ffc5b9",
+            "name" : "Kellin Quinn" ,
+            } ,
+            "sort-name" : "Quinn, Kellin" ,
+            } ,
+            "disambiguation" : "Vocalist of the Sleeping with Sirens" ,
+            } ,
+       "track" : {
+        "id" : "b9fbc671-6dc9-315c-b981-2bdc036e4487",
+        "position" : "8" ,
+        } ,
+        "number" : "8" ,
+        } ,
+        "length" : "261000" ,
+        } ,
+        "recording" : {
+         "id" : "c9de7e4a-b64b-417d-908f-d0914ec66dd4",
+         "title" : "Jezebel" ,
+         } ,
+         "length" : "261000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "35121183-46fe-3a8c-87e2-4f63a8f85990",
+        "position" : "9" ,
+        } ,
+        "number" : "9" ,
+        } ,
+        "length" : "221000" ,
+        } ,
+        "recording" : {
+         "id" : "d29d39a8-bf7b-4520-b078-e0f4283b2248",
+         "title" : "Losing Sight" ,
+         } ,
+         "length" : "221000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "joinphrase" : " feat. ",
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+          "name-credit" : {
+           "artist" : {
+            "id" : "af591c1b-4dfe-4708-993e-f6ac6aa6d2ac",
+            "name" : "Danny Worsnop" ,
+            } ,
+            "sort-name" : "Worsnop, Danny" ,
+            } ,
+       "track" : {
+        "id" : "97ceae6d-94e7-386d-8ebf-0ccf88a37148",
+        "position" : "10" ,
+        } ,
+        "number" : "10" ,
+        } ,
+        "length" : "267000" ,
+        } ,
+        "recording" : {
+         "id" : "093100b5-77c5-412d-9c23-c9a6acf93878",
+         "title" : "Generation: Hate" ,
+         } ,
+         "length" : "267000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "6718af00-25df-3ade-9f54-e1c53d979a7f",
+        "position" : "11" ,
+        } ,
+        "number" : "11" ,
+        } ,
+        "length" : "166000" ,
+        } ,
+        "recording" : {
+         "id" : "b3af0ae9-3b82-4c1c-8afb-ca9b3417d77f",
+         "title" : "Vessels" ,
+         } ,
+         "length" : "166000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+   "release" : {
+    "id" : "d90d1ac2-8ca6-4d90-89f5-f11074114e12",
+    "title" : "Unconditional" ,
+    } ,
+    "status" : "Official" ,
+    } ,
+    "quality" : "normal" ,
+    } ,
+    "text-representation" : {
+     "language" : "eng" ,
+     } ,
+     "script" : "Latn" ,
+     } ,
+    "artist-credit" : {
+     "name-credit" : {
+      "artist" : {
+       "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+       "name" : "Memphis May Fire" ,
+       } ,
+       "sort-name" : "Memphis May Fire" ,
+       } ,
+    "date" : "2014-03-25" ,
+    } ,
+    "country" : "US" ,
+    } ,
+    "release-event-list" : {
+     "count" : "1",
+     "release-event" : {
+      "date" : "2014-03-25" ,
+      } ,
+      "area" : {
+       "id" : "489ce91b-6658-3307-9877-795b68554c98",
+       "name" : "United States" ,
+       } ,
+       "sort-name" : "United States" ,
+       } ,
+       "iso-3166-1-code-list" : {
+        "iso-3166-1-code" : "US" ,
+        } ,
+    "cover-art-archive" : {
+     "artwork" : "true" ,
+     } ,
+     "count" : "1" ,
+     } ,
+     "front" : "true" ,
+     } ,
+     "back" : "false" ,
+     } ,
+    "label-info-list" : {
+     "count" : "1",
+     "label-info" : {
+      "catalog-number" : "RISE237" ,
+      } ,
+      "label" : {
+       "id" : "57f4e6ff-51f9-430f-bae6-df7cbefecbf9",
+       "name" : "Rise Records" ,
+       } ,
+       "sort-name" : "Rise Records" ,
+       } ,
+       "disambiguation" : "US rock" ,
+       } ,
+    "medium-list" : {
+     "count" : "1",
+     "medium" : {
+      "position" : "1" ,
+      } ,
+      "format" : "CD" ,
+      } ,
+      "disc-list" : {
+       "count" : "1",
+       "disc" : {
+        "id" : "8WKPzHLQrKgthaSD3yBFvcKz.y0-",
+        "sectors" : "195574" ,
+        } ,
+      "track-list" : {
+       "count" : "11" offset="0",
+       "track" : {
+        "id" : "151be8e0-d499-4ba5-8eff-2c01130b9c8f",
+        "position" : "1" ,
+        } ,
+        "number" : "1" ,
+        } ,
+        "length" : "236000" ,
+        } ,
+        "recording" : {
+         "id" : "f711f8cd-00e1-432a-93b5-73d8611381da",
+         "title" : "No Ordinary Love" ,
+         } ,
+         "length" : "236000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "8eabab74-41ee-4eda-8bed-9016a4deafd3",
+        "position" : "2" ,
+        } ,
+        "number" : "2" ,
+        } ,
+        "length" : "252000" ,
+        } ,
+        "recording" : {
+         "id" : "1e7bb30d-e974-4f7a-a908-c1bd054ee1cd",
+         "title" : "Beneath the Skin" ,
+         } ,
+         "length" : "252000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "5a611acd-1e5a-45d5-9a8a-d76ebd574e55",
+        "position" : "3" ,
+        } ,
+        "number" : "3" ,
+        } ,
+        "length" : "221000" ,
+        } ,
+        "recording" : {
+         "id" : "92b873c6-791c-4e65-8186-02f3f9cd5506",
+         "title" : "Sleepless Nights" ,
+         } ,
+         "length" : "221000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "318a715e-87f3-4fd9-a1db-0727be59936e",
+        "position" : "4" ,
+        } ,
+        "number" : "4" ,
+        } ,
+        "length" : "250000" ,
+        } ,
+        "recording" : {
+         "id" : "4879c911-7521-4146-9e66-e9c684d3b51b",
+         "title" : "The Answer" ,
+         } ,
+         "length" : "250000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "cac6715d-ad6b-4a10-a099-24579d621c74",
+        "position" : "5" ,
+        } ,
+        "number" : "5" ,
+        } ,
+        "length" : "262000" ,
+        } ,
+        "recording" : {
+         "id" : "0a9f20b5-da2d-4b55-b46b-8902c09b367b",
+         "title" : "Possibilities" ,
+         } ,
+         "length" : "262000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "af629bc6-7783-4bd9-b493-ef4bc793ebb9",
+        "position" : "6" ,
+        } ,
+        "number" : "6" ,
+        } ,
+        "length" : "204000" ,
+        } ,
+        "recording" : {
+         "id" : "53fb74d2-6637-482d-89fd-9a507f7ab484",
+         "title" : "Speechless" ,
+         } ,
+         "length" : "204000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "b7dda413-5aa4-4a06-b8c0-7a52a32a732a",
+        "position" : "7" ,
+        } ,
+        "number" : "7" ,
+        } ,
+        "length" : "224000" ,
+        } ,
+        "recording" : {
+         "id" : "274ddf2e-466b-4f99-a691-a8f7a5a6bbbb",
+         "title" : "The Rose" ,
+         } ,
+         "length" : "224000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "21f0cd3a-9c05-4aa7-8e52-f022c5145dab",
+        "position" : "8" ,
+        } ,
+        "number" : "8" ,
+        } ,
+        "length" : "244000" ,
+        } ,
+        "recording" : {
+         "id" : "059a1a1c-280d-43a0-92e7-18c71fd6a196",
+         "title" : "Not Enough" ,
+         } ,
+         "length" : "244000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "345a4719-2846-4dee-b274-d9512977cf4d",
+        "position" : "9" ,
+        } ,
+        "number" : "9" ,
+        } ,
+        "length" : "218000" ,
+        } ,
+        "recording" : {
+         "id" : "8d0e4cb1-25b6-4db1-ad5e-26cc080157ca",
+         "title" : "Need to Be" ,
+         } ,
+         "length" : "218000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "19b86d7a-117b-4013-8ad6-e765ed38050f",
+        "position" : "10" ,
+        } ,
+        "number" : "10" ,
+        } ,
+        "length" : "233000" ,
+        } ,
+        "recording" : {
+         "id" : "8b2b0f77-7694-4dfc-b6f6-1eeb087a9baa",
+         "title" : "Pharisees" ,
+         } ,
+         "length" : "233000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+       "track" : {
+        "id" : "f7ecce33-78af-401a-b3ef-b85e0bd67b09",
+        "position" : "11" ,
+        } ,
+        "number" : "11" ,
+        } ,
+        "length" : "262000" ,
+        } ,
+        "recording" : {
+         "id" : "3f1b554a-00a0-4226-af0e-29a78ccedb62",
+         "title" : "Divinity" ,
+         } ,
+         "length" : "262000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "681b5ab2-b7dd-4dff-85e9-1e84503ad36a",
+            "name" : "Memphis May Fire" ,
+            } ,
+            "sort-name" : "Memphis May Fire" ,
+            } ,
+   "release" : {
+    "id" : "3d9eaf58-e8b9-49de-8a66-9ed2e4c53fe1",
+    "title" : "RIOT!" ,
+    } ,
+    "status" : "Official" ,
+    } ,
+    "quality" : "normal" ,
+    } ,
+    "packaging" : "Jewel Case" ,
+    } ,
+    "text-representation" : {
+     "language" : "eng" ,
+     } ,
+     "script" : "Latn" ,
+     } ,
+    "artist-credit" : {
+     "name-credit" : {
+      "artist" : {
+       "id" : "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+       "name" : "Paramore" ,
+       } ,
+       "sort-name" : "Paramore" ,
+       } ,
+       "disambiguation" : "Pop Rock band from Franklin, Tennessee, USA" ,
+       } ,
+    "date" : "2007-06-12" ,
+    } ,
+    "country" : "US" ,
+    } ,
+    "release-event-list" : {
+     "count" : "1",
+     "release-event" : {
+      "date" : "2007-06-12" ,
+      } ,
+      "area" : {
+       "id" : "489ce91b-6658-3307-9877-795b68554c98",
+       "name" : "United States" ,
+       } ,
+       "sort-name" : "United States" ,
+       } ,
+       "iso-3166-1-code-list" : {
+        "iso-3166-1-code" : "US" ,
+        } ,
+    "barcode" : "0756789921196" ,
+    } ,
+    "asin" : "B000RX8SMC" ,
+    } ,
+    "cover-art-archive" : {
+     "artwork" : "true" ,
+     } ,
+     "count" : "1" ,
+     } ,
+     "front" : "true" ,
+     } ,
+     "back" : "false" ,
+     } ,
+    "label-info-list" : {
+     "count" : "1",
+     "label-info" : {
+      "catalog-number" : "FBR095, 208316-2" ,
+      } ,
+      "label" : {
+       "id" : "fc79d7ba-5f25-4e15-be09-03614faf210c",
+       "name" : "Fueled by Ramen" ,
+       } ,
+       "sort-name" : "Fueled by Ramen" ,
+       } ,
+    "medium-list" : {
+     "count" : "1",
+     "medium" : {
+      "position" : "1" ,
+      } ,
+      "format" : "CD" ,
+      } ,
+      "disc-list" : {
+       "count" : "1",
+       "disc" : {
+        "id" : "aNp3xBThNzN1jaTHospL5L7Defo-",
+        "sectors" : "227502" ,
+        } ,
+      "track-list" : {
+       "count" : "14" offset="0",
+       "track" : {
+        "id" : "cc72a1cb-0f0e-3176-9079-e455d81866cc",
+        "position" : "1" ,
+        } ,
+        "number" : "1" ,
+        } ,
+        "length" : "228293" ,
+        } ,
+        "recording" : {
+         "id" : "66ce6a30-6f54-4598-8cd4-84e190ac7a6c",
+         "title" : "For a Pessimist, I'm Pretty Optimistic" ,
+         } ,
+         "length" : "228000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+            "name" : "Paramore" ,
+            } ,
+            "sort-name" : "Paramore" ,
+            } ,
+            "disambiguation" : "Pop Rock band from Franklin, Tennessee, USA" ,
+            } ,
+       "track" : {
+        "id" : "d03a47cc-5c46-3c69-87a1-ff9e701be03e",
+        "position" : "2" ,
+        } ,
+        "number" : "2" ,
+        } ,
+        "length" : "220480" ,
+        } ,
+        "recording" : {
+         "id" : "d7d648e6-0b85-47bb-a580-3eef7bdd5541",
+         "title" : "That's What You Get" ,
+         } ,
+         "length" : "220000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+            "name" : "Paramore" ,
+            } ,
+            "sort-name" : "Paramore" ,
+            } ,
+            "disambiguation" : "Pop Rock band from Franklin, Tennessee, USA" ,
+            } ,
+       "track" : {
+        "id" : "09ef4360-431b-3513-965d-63ee960b00d4",
+        "position" : "3" ,
+        } ,
+        "number" : "3" ,
+        } ,
+        "length" : "203640" ,
+        } ,
+        "recording" : {
+         "id" : "45e4cdfc-13a1-4ce2-927e-d84838f70f42",
+         "title" : "Hallelujah" ,
+         } ,
+         "length" : "203640" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+            "name" : "Paramore" ,
+            } ,
+            "sort-name" : "Paramore" ,
+            } ,
+            "disambiguation" : "Pop Rock band from Franklin, Tennessee, USA" ,
+            } ,
+       "track" : {
+        "id" : "47d29682-e5ac-30b1-8593-d2761a166183",
+        "position" : "4" ,
+        } ,
+        "number" : "4" ,
+        } ,
+        "length" : "211520" ,
+        } ,
+        "recording" : {
+         "id" : "26bc1124-b228-401e-8f38-5cea1625d8c2",
+         "title" : "Misery Business" ,
+         } ,
+         "length" : "211520" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+            "name" : "Paramore" ,
+            } ,
+            "sort-name" : "Paramore" ,
+            } ,
+            "disambiguation" : "Pop Rock band from Franklin, Tennessee, USA" ,
+            } ,
+       "track" : {
+        "id" : "d46bbf67-31d0-3259-b88f-ae81f1a7268d",
+        "position" : "5" ,
+        } ,
+        "number" : "5" ,
+        } ,
+        "length" : "215093" ,
+        } ,
+        "recording" : {
+         "id" : "7d872311-33d9-4c44-bd68-66e50d8d1438",
+         "title" : "When It Rains" ,
+         } ,
+         "length" : "215000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+            "name" : "Paramore" ,
+            } ,
+            "sort-name" : "Paramore" ,
+            } ,
+            "disambiguation" : "Pop Rock band from Franklin, Tennessee, USA" ,
+            } ,
+       "track" : {
+        "id" : "2c7722b0-cde4-3fd0-86fd-5781bb9a0a81",
+        "position" : "6" ,
+        } ,
+        "number" : "6" ,
+        } ,
+        "length" : "198226" ,
+        } ,
+        "recording" : {
+         "id" : "3438eb24-e127-4b2f-8192-03346ce62bd7",
+         "title" : "Let the Flames Begin" ,
+         } ,
+         "length" : "198000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+            "name" : "Paramore" ,
+            } ,
+            "sort-name" : "Paramore" ,
+            } ,
+            "disambiguation" : "Pop Rock band from Franklin, Tennessee, USA" ,
+            } ,
+       "track" : {
+        "id" : "8b9ed9f3-2f67-313e-8e8d-abf80435e05c",
+        "position" : "7" ,
+        } ,
+        "number" : "7" ,
+        } ,
+        "length" : "209746" ,
+        } ,
+        "recording" : {
+         "id" : "d4a4c7ba-580f-4638-b9c9-1f2f29790c44",
+         "title" : "Miracle" ,
+         } ,
+         "length" : "209746" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+            "name" : "Paramore" ,
+            } ,
+            "sort-name" : "Paramore" ,
+            } ,
+            "disambiguation" : "Pop Rock band from Franklin, Tennessee, USA" ,
+            } ,
+       "track" : {
+        "id" : "98d2e3b2-e267-3b37-a4e2-3bf85ba2089c",
+        "position" : "8" ,
+        } ,
+        "number" : "8" ,
+        } ,
+        "length" : "189373" ,
+        } ,
+        "recording" : {
+         "id" : "ff1b9745-11e6-4e65-ba05-81b8ee1f5555",
+         "title" : "crushcrushcrush" ,
+         } ,
+         "length" : "189000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+            "name" : "Paramore" ,
+            } ,
+            "sort-name" : "Paramore" ,
+            } ,
+            "disambiguation" : "Pop Rock band from Franklin, Tennessee, USA" ,
+            } ,
+       "track" : {
+        "id" : "be4591f9-621c-3afc-9765-46d85781323e",
+        "position" : "9" ,
+        } ,
+        "number" : "9" ,
+        } ,
+        "length" : "218333" ,
+        } ,
+        "recording" : {
+         "id" : "3fae3373-14f7-47aa-aa85-12bcaf2d6c22",
+         "title" : "We Are Broken" ,
+         } ,
+         "length" : "218000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+            "name" : "Paramore" ,
+            } ,
+            "sort-name" : "Paramore" ,
+            } ,
+            "disambiguation" : "Pop Rock band from Franklin, Tennessee, USA" ,
+            } ,
+       "track" : {
+        "id" : "e9cebb14-7540-3274-a7c1-fe63954b968c",
+        "position" : "10" ,
+        } ,
+        "number" : "10" ,
+        } ,
+        "length" : "198973" ,
+        } ,
+        "recording" : {
+         "id" : "398c893c-29a8-4225-851c-1b530e64b5fd",
+         "title" : "Fences" ,
+         } ,
+         "length" : "198973" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+            "name" : "Paramore" ,
+            } ,
+            "sort-name" : "Paramore" ,
+            } ,
+            "disambiguation" : "Pop Rock band from Franklin, Tennessee, USA" ,
+            } ,
+       "track" : {
+        "id" : "d48dad29-2b98-3016-b34f-f7604aa12570",
+        "position" : "11" ,
+        } ,
+        "number" : "11" ,
+        } ,
+        "length" : "243626" ,
+        } ,
+        "recording" : {
+         "id" : "3c084aa8-bb01-4ea7-81a9-ff11c8e18383",
+         "title" : "Born for This" ,
+         } ,
+         "length" : "243626" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+            "name" : "Paramore" ,
+            } ,
+            "sort-name" : "Paramore" ,
+            } ,
+            "disambiguation" : "Pop Rock band from Franklin, Tennessee, USA" ,
+            } ,
+       "track" : {
+        "id" : "d0cae2f2-27a3-3f7d-86bc-04a99fc76621",
+        "position" : "12" ,
+        } ,
+        "number" : "12" ,
+        } ,
+        "length" : "203600" ,
+        } ,
+        "recording" : {
+         "id" : "5e1e7a85-6c37-4fc2-8398-e3bea12e33d0",
+         "title" : "Stop This Song (Lovesick Melody)" ,
+         } ,
+         "length" : "203000" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+            "name" : "Paramore" ,
+            } ,
+            "sort-name" : "Paramore" ,
+            } ,
+            "disambiguation" : "Pop Rock band from Franklin, Tennessee, USA" ,
+            } ,
+       "track" : {
+        "id" : "03d168a1-2288-3ad8-8664-172e73c01e9b",
+        "position" : "13" ,
+        } ,
+        "number" : "13" ,
+        } ,
+        "length" : "226946" ,
+        } ,
+        "recording" : {
+         "id" : "8c213408-1c32-4021-8c77-b6b83ca325ca",
+         "title" : "Rewind (demo)" ,
+         } ,
+         "length" : "226946" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+            "name" : "Paramore" ,
+            } ,
+            "sort-name" : "Paramore" ,
+            } ,
+            "disambiguation" : "Pop Rock band from Franklin, Tennessee, USA" ,
+            } ,
+       "track" : {
+        "id" : "571a20e3-a27e-3e38-ad0c-266d40666891",
+        "position" : "14" ,
+        } ,
+        "number" : "14" ,
+        } ,
+        "length" : "263506" ,
+        } ,
+        "recording" : {
+         "id" : "9ff3d151-74ed-4103-a070-583b0d7c18b9",
+         "title" : "Emergency (live)" ,
+         } ,
+         "length" : "263506" ,
+         } ,
+         "artist-credit" : {
+          "name-credit" : {
+           "artist" : {
+            "id" : "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+            "name" : "Paramore" ,
+            } ,
+            "sort-name" : "Paramore" ,
+            } ,
+            "disambiguation" : "Pop Rock band from Franklin, Tennessee, USA" ,
+            } ,

@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['element',['Element',['../class_element.html#ab0d0e20be9a36ae676202db753faeec9',1,'Element::Element()'],['../class_element.html#a6b1a7cd51ec49606308cd7574a3f1543',1,'Element::Element(const Element &amp;orig)'],['../class_element.html#a82992dfb24cd9e56177abaf5c1b880cf',1,'Element::Element(std::string tag, int lNum)'],['../class_element.html#a959d57b9153db9b7d86f183b4609e97c',1,'Element::Element(std::string tag, int lNum, std::string content)'],['../class_element.html#a00edb17ee6239f71a42e753b5c079de8',1,'Element::Element(std::string tag, int lNum, std::string content, int xmlLevel)'],['../class_element.html#af3fea23cd448cf569adb6c4ad52103f4',1,'Element::Element(std::string tag, int lNum, std::string content, int xmlLevel, std::vector&lt; Attribute * &gt; nAttributes)']]]
+];

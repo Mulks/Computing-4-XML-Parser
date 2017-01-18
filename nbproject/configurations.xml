@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="95">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>Attribute.h</itemPath>
+      <itemPath>DeleteVector.h</itemPath>
+      <itemPath>Element.h</itemPath>
+      <itemPath>ParseLine.h</itemPath>
+      <itemPath>ParseXML.h</itemPath>
+      <itemPath>ParserState.h</itemPath>
+      <itemPath>SearchParserState.h</itemPath>
+      <itemPath>trim.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+      <itemPath>tdwp.xml</itemPath>
+      <itemPath>tdwp2.xml</itemPath>
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>Attribute.cpp</itemPath>
+      <itemPath>DeleteVector.cpp</itemPath>
+      <itemPath>Element.cpp</itemPath>
+      <itemPath>ParseLine.cpp</itemPath>
+      <itemPath>ParseXML.cpp</itemPath>
+      <itemPath>ParserState.cpp</itemPath>
+      <itemPath>SearchParserState.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+      <itemPath>trim.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>GNU|GNU</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <commandLine>-std=c++11</commandLine>
+        </ccTool>
+        <linkerTool>
+          <output>${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/comp4hw1</output>
+        </linkerTool>
+      </compileType>
+      <item path="Attribute.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Attribute.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DeleteVector.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DeleteVector.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Element.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Element.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ParseLine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ParseLine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ParseXML.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ParseXML.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ParserState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ParserState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SearchParserState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SearchParserState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tdwp.xml" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="tdwp2.xml" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="trim.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="trim.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="Attribute.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Attribute.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DeleteVector.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DeleteVector.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Element.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Element.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ParseLine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ParseLine.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ParseXML.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ParseXML.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ParserState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ParserState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="SearchParserState.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="SearchParserState.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="tdwp.xml" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="tdwp2.xml" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="trim.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="trim.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
